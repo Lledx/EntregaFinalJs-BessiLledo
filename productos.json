@@ -1,0 +1,139 @@
+[ 
+    {
+        "id": 1,
+        "nombre": "Iphone 7 Gold 32gb",
+        "precio": 35000,
+        "desc": "Apple Iphone 7 libre de icloud y empresas",
+        "img": "./img/ip7.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Iphone Xs Max Gold 256gb",
+        "precio": 185500,
+        "desc": "Apple Iphone Xs MAX libre de icloud y empresas",
+        "img": "./img/IPXS.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Iphone 11 Pro Black",
+        "precio": 235000,
+        "desc": "Apple Iphone 11 con garantia oficial apple libre de todo",        
+        "img": "./img/11pro.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Macbook AIR 13´ 2020",
+        "precio": 350000,
+        "desc": "Se vende con cargador impecable ningun detalle",
+        "img": "./img/macair.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Macbook Pro 13´",
+        "precio": 550000,
+        "desc": "Se vende macbook pro I7 SSD 1TB",
+        "img": "./img/macpro.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Samsung Note 21 Ultra",
+        "precio": 390000,
+        "desc": "12 de ram 256 de interna, pantalla de 6.9 pulgadas",
+        "img": "./img/note21ultra.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Motorola Edge 40 Pro",
+        "precio": 400000,
+        "desc": "Nuevo lanzamiento Edge 40 pro 12/256",
+        "img": "./img/motoedge40pro.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Motorola Edge 30 Ultra",
+        "precio": 300000,
+        "desc": "Edge 30 ultra 12/256",
+        "img": "./img/edge30ultra.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Iphone 14 Pro Max Gold 256gb",
+        "precio": 890000,
+        "desc": "Apple iphone 14 Pro Max sellado con garantia oficial apple",
+        "img": "./img/14promax.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Asus i7 Notebook",
+        "precio": 490000,
+        "desc": "Selladas con ssd y todos sus accesorios",
+        "img": "./img/asusx515ea.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Ipad Pro 11 Space Gray",
+        "precio": 789000,
+        "desc": "2TB de almacenamiento ",
+        "img": "./img/ipadpro11.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Apple Watch SE",
+        "precio": 200000,
+        "desc": "Gps , 40mm",
+        "img": "./img/watch.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Xiaomi Mi 11 Ultra",
+        "precio": 950000,
+        "desc": "12/512",
+        "img": "./img/mi11ultra.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "nombre": "Xiaomi 11T Pro",
+        "precio": 530000,
+        "desc": "8/256",
+        "img": "./img/11tpro.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Huawei P30 lite",
+        "precio": 75000,
+        "desc": "6/256",
+        "img": "./img/p30lite.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 16,
+        "nombre": "Huawei Nova Y90",
+        "precio": 190000,
+        "desc": "6/128",
+        "img": "./img/novay90.png",
+        "cantidad": 1
+    },
+    {
+        "id": 17,
+        "nombre": "Samsung A13",
+        "precio": 120000,
+        "desc": "4/128",
+        "img": "./img/a13.png",
+        "cantidad": 1
+        
+        }
+    ]
