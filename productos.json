@@ -4,7 +4,7 @@
         "nombre": "Iphone 7 Gold 32gb",
         "precio": 35000,
         "desc": "Apple Iphone 7 libre de icloud y empresas",
-        "img": "./img/ip7.jpg",
+        "img": "./img/IP7.jpg",
         "cantidad": 1
     },
     {
@@ -28,7 +28,7 @@
         "nombre": "Macbook AIR 13´ 2020",
         "precio": 350000,
         "desc": "Se vende con cargador impecable ningun detalle",
-        "img": "./img/macair.jpg",
+        "img": "./img/MACAIR.jpg",
         "cantidad": 1
     },
     {
@@ -60,7 +60,7 @@
         "nombre": "Motorola Edge 30 Ultra",
         "precio": 300000,
         "desc": "Edge 30 ultra 12/256",
-        "img": "./img/edge30ultra.jpg",
+        "img": "./img/Edge30ultra.jpg",
         "cantidad": 1
     },
     {
@@ -76,7 +76,7 @@
         "nombre": "Asus i7 Notebook",
         "precio": 490000,
         "desc": "Selladas con ssd y todos sus accesorios",
-        "img": "./img/asusx515ea.jpg",
+        "img": "./img/Asusx515ea.jpg",
         "cantidad": 1
     },
     {
